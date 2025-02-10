@@ -7,8 +7,8 @@ body{
 }
 
 .top-header {
-	width: 100%;
-	background-image: url(https://loremflickr.com/320/240/campervan,red/all);
+	width: 400px;
+	background-image: url(https://loremflickr.com/320/240/people/all);
 	background-size: cover;
 	background-position: center;
 }
@@ -18,6 +18,7 @@ body{
 	padding: 2em 1em;
   font-size: 20px;
 	font-family: Arial, sans-serif;
+  text-align: center;
 }
 
 h2{
